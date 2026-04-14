@@ -41,7 +41,7 @@
 1. **Клонируйте репозиторий:**
 
    ```bash
-   git clone https://github.com/vladimirGoLLUM/FileSorterApp.git
+   git clone https://github.com/pycraft-dev/FileSorterApp.git
    cd FileSorterApp
    ```
 
@@ -67,4 +67,6 @@
 
 Понравился результат? Я могу написать аналогичное приложение под ваши задачи.
 
-🔗 Мой профиль на Kwork
+📧 [Mail](mailto:pycraft-dev@21051992.ru)  
+🔗 [Kwork](https://kwork.ru/user/pycraft-dev)  
+🔗 [GitHub](https://github.com/pycraft-dev/)
