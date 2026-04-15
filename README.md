@@ -41,7 +41,7 @@
 1. **Клонируйте репозиторий:**
 
    ```bash
-   git clone https://github.com/pycraft-dev/FileSorterApp.git
+git clone https://github.com/pycraft-dev/FileSorter-App.git
    cd FileSorterApp
    ```
 
